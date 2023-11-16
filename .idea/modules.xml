@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/OCP/Bad/Bad.iml" filepath="$PROJECT_DIR$/OCP/Bad/Bad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LSP/Bad_/Bad_.iml" filepath="$PROJECT_DIR$/LSP/Bad_/Bad_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIP/DIP.iml" filepath="$PROJECT_DIR$/DIP/DIP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCP/Good/Good.iml" filepath="$PROJECT_DIR$/OCP/Good/Good.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LSP/Good_/Good_.iml" filepath="$PROJECT_DIR$/LSP/Good_/Good_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ISP/ISP.iml" filepath="$PROJECT_DIR$/ISP/ISP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LSP/LSP.iml" filepath="$PROJECT_DIR$/LSP/LSP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OCP/OCP.iml" filepath="$PROJECT_DIR$/OCP/OCP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SRP/SRP.iml" filepath="$PROJECT_DIR$/SRP/SRP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIP/_Bad/_Bad.iml" filepath="$PROJECT_DIR$/DIP/_Bad/_Bad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DIP/_Good/_Good.iml" filepath="$PROJECT_DIR$/DIP/_Good/_Good.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ISP/_bad/_bad.iml" filepath="$PROJECT_DIR$/ISP/_bad/_bad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ISP/_good/_good.iml" filepath="$PROJECT_DIR$/ISP/_good/_good.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SRP/bad/bad.iml" filepath="$PROJECT_DIR$/SRP/bad/bad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SRP/good/good.iml" filepath="$PROJECT_DIR$/SRP/good/good.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solidPrensipleri.iml" filepath="$PROJECT_DIR$/solidPrensipleri.iml" />
+    </modules>
+  </component>
+</project>
